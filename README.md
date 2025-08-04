@@ -51,11 +51,11 @@ Access to safe and improved sources of drinking water remains a critical issue i
 
 The following are output screenshots from the analysis conducted in IBM watsonx.ai:
 
-### Visualization 1: Regional Disparity in Access
+### Visualization 1: 
 
 ![Screenshot 1](outputs/Screenshot%202025-08-04%20204714.png)
 
-### Visualization 2: Correlation with Clean Fuel Usage
+### Visualization 2: 
 
 ![Screenshot 2](outputs/Screenshot%202025-08-04%20204759.png)
 
